@@ -1,6 +1,6 @@
 name: Add new issues to Ignite GH Project
 
-on:
+"on":
   issues:
     types:
       - opened
