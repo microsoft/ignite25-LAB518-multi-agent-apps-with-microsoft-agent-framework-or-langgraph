@@ -26,17 +26,6 @@ By the end of this session, learners will be able to:
 
 - Integrate and test external MCP (Model Context Protocol) servers to extend agent capabilities and tool interoperability.
 
-### Source Code
-
-You can either work through the exercises step by step or use the completed files to run the multi-agent application in a retail banking scenario.
-#### Exercises:
-Work through the exercises to build the application step by step:
-- [LangGraph (Python)](https://github.com/AzureCosmosDB/banking-multi-agent-workshop/blob/HOL_v2_AFandLangGraph/01_exercises/python/workshop/Module-0.md)
-- [Agent Framework (C#)](https://github.com/AzureCosmosDB/banking-multi-agent-workshop/blob/HOL_v2_AFandLangGraph/01_exercises/csharp/workshop/Module-0.md)
-#### Completed Files
-If you prefer to skip the exercises and run as demo directly:
-- [LangGraph (Python)](https://github.com/AzureCosmosDB/banking-multi-agent-workshop/blob/HOL_v2_AFandLangGraph/02_completed/python/langgraph/README.md)
-- [Agent Framework (C#)](https://github.com/AzureCosmosDB/banking-multi-agent-workshop/blob/HOL_v2_AFandLangGraph/02_completed/csharp/README.md)
 
 ### 💻 Technologies Used
 
@@ -50,7 +39,16 @@ If you prefer to skip the exercises and run as demo directly:
 
 ### 🚀 Getting Started
 
-At Ignite, a virtual environment with all prerequisites and required accounts is provided for this lab. To run this lab outside of Ignite, follow the [setup instructions](https://gh.io/lab518-msignite25).
+During Microsoft Ignite, this lab is hosted in a virtual environment preconfigured with all necessary prerequisites and accounts.
+If you’re running the lab outside of Ignite, you can either follow the exercises step by step or use the provided completed files to launch the multi-agent retail banking application directly.
+#### Exercises:
+Work through the exercises to build the application step by step:
+- [LangGraph (Python)](https://github.com/AzureCosmosDB/banking-multi-agent-workshop/blob/HOL_v2_AFandLangGraph/01_exercises/python/workshop/Module-0.md)
+- [Agent Framework (C#)](https://github.com/AzureCosmosDB/banking-multi-agent-workshop/blob/HOL_v2_AFandLangGraph/01_exercises/csharp/workshop/Module-0.md)
+#### Completed Files
+If you prefer to skip the exercises and run as demo directly:
+- [LangGraph (Python)](https://github.com/AzureCosmosDB/banking-multi-agent-workshop/blob/HOL_v2_AFandLangGraph/02_completed/python/langgraph/README.md)
+- [Agent Framework (C#)](https://github.com/AzureCosmosDB/banking-multi-agent-workshop/blob/HOL_v2_AFandLangGraph/02_completed/csharp/README.md)
 
 ## Content Owners
 
