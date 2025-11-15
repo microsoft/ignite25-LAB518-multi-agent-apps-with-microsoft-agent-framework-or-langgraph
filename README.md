@@ -73,6 +73,7 @@ If you prefer to skip the exercises and run as demo directly:
 | Resource | Link | Description |
 |----------|------|-------------|
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
+| Learn at Ignite 2025 | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite) | Learn more about Ignite 2025 sessions and topics |
 
 ## Contributing
 
