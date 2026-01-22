@@ -75,6 +75,10 @@ If you prefer to skip the exercises and run as demo directly:
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
 | Learn at Ignite 2025 | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite) | Learn more about Ignite 2025 sessions and topics |
 
+## 🚀 Try Azure for Free!
+
+Ready to build, experiment, or scale your next project? Kick things off with an Azure Free Trial and get access to popular services, generous monthly credits, and the tools you need to ship fast. 👉 Start your free journey here: https://aka.ms/devrelft
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
